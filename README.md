@@ -1,2 +1,2 @@
 #netflix_clone
-nothing to write 
+basically a clone
